@@ -10,16 +10,18 @@ export const projectsData = [
     image: Work1,
     title: "PACE - Reading Planner",
     category: "web",
-    cta: "View the Code",
-    link:"https://github.com/kailynnelopez/PaceReadingPlanner-WEB",
+    cta: "Coming Soon",
+    link:" ",
+    icon: " ",
   },
   {
     id: 2,
     image: Work2,
     title: "Digital Rolodex",
     category: "app",
-    cta: "View the Code",
-    link: "https://github.com/kailynnelopez",
+    cta: "Coming Soon",
+    link: " ",
+    icon: " ",
   },
   {
     id: 3,
@@ -28,6 +30,7 @@ export const projectsData = [
     category: "design",
     cta: "Case Study",
     link: "https://kailynnelopez.notion.site/App-Concept-PACE-A-Reading-App-For-Procrastinators-8ed116e8e4f3401a981a5c80c3fb9c01",
+    icon: "bx bx-right-arrow-alt work__button-icon",
   },
   {
     id: 4,
@@ -36,6 +39,7 @@ export const projectsData = [
     category: "design",
     cta: "Case Study",
     link: "https://kailynnelopez.notion.site/Pregnancy-Support-Center-01388ce843a04e62945f4f74c137fa12",
+    icon: "bx bx-right-arrow-alt work__button-icon",
   },
 ];
 
