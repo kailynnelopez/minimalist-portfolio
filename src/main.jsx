@@ -23,7 +23,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </main>
 
     <Footer />
-    <ScrollUp />
+    {/* <ScrollUp /> */}
     </>
 
   </React.StrictMode>
