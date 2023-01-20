@@ -17,12 +17,12 @@ const Info = () => {
         <span className="about__subtitle">2 internships</span>
       </div>
 
-      <div className="about__box">
+      {/* <div className="about__box">
         <i class="bx bx-bulb about__icon"></i>
 
         <h3 className="about__title">Projects</h3>
         <span className="about__subtitle">25+</span>
-      </div>
+      </div> */}
     </div>
   );
 };
