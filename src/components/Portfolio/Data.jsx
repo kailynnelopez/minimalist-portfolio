@@ -8,7 +8,7 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "PACE - Reading Planner",
+    title: "PACE - Reading Planning Generator",
     category: "web",
     cta: "Coming Soon",
     link:" ",
