@@ -1,5 +1,5 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
+import Work1 from "../../assets/PaceCover.png";
+import Work2 from "../../assets/work1.jpg";
 import Work3 from "../../assets/PACE-Cover.jpg";
 import Work4 from "../../assets/PregWeb.jpg";
 
