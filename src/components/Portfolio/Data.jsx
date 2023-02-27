@@ -1,31 +1,42 @@
-import Work1 from "../../assets/PaceCover.png";
-import Work2 from "../../assets/work1.jpg";
-import Work3 from "../../assets/PACE-Cover.jpg";
-import Work4 from "../../assets/PregWeb.jpg";
+import Pace_Cover from "../../assets/PaceCover.png";
+import PregProj_Cover from "../../assets/PregWeb.jpg";
+import GCC_Cover from "../../assets/gcccover.png";
+import NCC_Cover from "../../assets/NewCityCleaningCover.png";
+import PaceApp_Cover from "../../assets/Pace-APP-Cover.jpg"
+
 
 
 export const projectsData = [
   {
     id: 1,
-    image: Work1,
+    image: Pace_Cover,
     title: "PACE - Reading Planning Generator",
     category: "web",
-    cta: "Coming Soon",
-    link:" ",
-    icon: " ",
+    cta: "View Live Prototype",
+    link:"https://pacereadingplanner.com/",
+    icon: "bx bx-right-arrow-alt work__button-icon",
   },
   {
     id: 2,
-    image: Work2,
-    title: "Digital Rolodex",
-    category: "app",
+    image: GCC_Cover,
+    title: "Golden Coast Construction Website",
+    category: "design",
     cta: "Coming Soon",
-    link: " ",
+    link: "src/assets/gcccover.png",
     icon: " ",
   },
   {
     id: 3,
-    image: Work3,
+    image: NCC_Cover,
+    title: "New City Cleaning Service Website",
+    category: "design",
+    cta: "Coming Soon",
+    link: "src/assets/NewCityCleaningCover.png",
+    icon: " ",
+  },
+  {
+    id: 4,
+    image: PaceApp_Cover,
     title: "PACE - App",
     category: "design",
     cta: "Case Study",
@@ -33,8 +44,8 @@ export const projectsData = [
     icon: "bx bx-right-arrow-alt work__button-icon",
   },
   {
-    id: 4,
-    image: Work4,
+    id: 5,
+    image: PregProj_Cover,
     title: "Pregnancy Support Center",
     category: "design",
     cta: "Case Study",
@@ -49,11 +60,11 @@ export const projectsNav = [
     name: "all",
   },
   {
-    name: "web",
+    name: "development",
   },
-  {
-    name: "app",
-  },
+  // {
+  //   name: "app",
+  // },
   {
     name: "design",
   },
