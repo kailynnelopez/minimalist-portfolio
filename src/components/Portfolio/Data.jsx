@@ -11,7 +11,7 @@ export const projectsData = [
     id: 1,
     image: Pace_Cover,
     title: "PACE - Reading Planning Generator",
-    category: "web",
+    category: "development",
     cta: "View Live Prototype",
     link:"https://pacereadingplanner.com/",
     icon: "bx bx-right-arrow-alt work__button-icon",
