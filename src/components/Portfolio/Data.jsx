@@ -31,7 +31,7 @@ export const projectsData = [
     title: "New City Cleaning Service Website",
     category: "design",
     cta: "Coming Soon",
-    link: "src/assets/NewCityCleaningCover.png",
+    link: "https://newcity.cleaning",
     icon: " ",
   },
   {
