@@ -30,9 +30,9 @@ export const projectsData = [
     image: NCC_Cover,
     title: "New City Cleaning Service Website",
     category: "design",
-    cta: "Coming Soon",
+    cta: "View Site",
     link: "https://newcity.cleaning",
-    icon: " ",
+    icon: "bx bx-right-arrow-alt work__button-icon",
   },
   {
     id: 4,
